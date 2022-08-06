@@ -9,6 +9,8 @@
 -	0 = UNKNOWN
 -	1= MALE
 -	2= FEMALE
+
+
 Image 1: Checkout Time for Users
 ![img 1](https://user-images.githubusercontent.com/101531875/183233383-8e48b072-4601-42f0-8bbf-8ad2841e3fbf.png)
 •	As seen in the graph above, majority of the users checked out a bike during the first 30 minutes. With bikes being checked out so quick and at such a high rate, the company would need to make sure there are enough bikes for users in case there is a shortage. However, we can see how much income is coming with the amount  being checked out so fast. 
@@ -31,6 +33,7 @@ Image 5: Trips By Gender (weekday per hour)
 
 ## Summary
 ### After completing all of the visualizations on Tableau, it is in favor that male tend to use bikes more as a way to commute, or just to ride in general compared to females and unknown population. It stood out to me that Thursday was the day with most usage of bikes compared to any other day. Overall, I think creating this bike- sharing program in a different city benefit the company a lot because the information above shows that there are a lot of users and customers who are willing to check out bikes and use them for the day. Two other visualization I would make based off the datasets I created are: a breakdown of the genders checking out bikes and a dataset showing bike utilization. 
+
 -	1st visualization: Gender Breakdown
 ![img 7](https://user-images.githubusercontent.com/101531875/183233442-eb7614fe-75cd-4fd3-9bf9-bba2041a6905.png)
 
