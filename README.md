@@ -4,6 +4,8 @@
 -	The length of time it took for bikes to get checked out for all riders and genders,
 -	The number of bike trips for all riders and genders for each hour of each day of the week,
 -	And, the number of bike trips for each type of user and gender for each day of the week.
+
+[link to dashboard](https://public.tableau.com/app/profile/pong.lor/viz/Citi-BikeChallenge_16597490856740/Story1?publish=yes)
 ## Results
 -	For Number to Gender Strings, instead of having it labeled unknown, male and female, it is 0, 1, 2. 
 -	0 = UNKNOWN
